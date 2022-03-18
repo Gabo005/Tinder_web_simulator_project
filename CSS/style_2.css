@@ -1,0 +1,217 @@
+/***************************TAG SELECTOR***********************/
+
+body{
+  margin:0;
+  text-align: center;
+  background-color:#424242;
+}
+
+
+h1{
+  margin-left: 100px;
+}
+
+
+
+
+/***************************CLASS SELECTOR**********************/
+
+.click {
+  color: #FD297B;
+}
+
+.tinder-body{
+  background-color: #FD297B;
+}
+
+.top-container{
+  background-color: #FD297B;
+  position: relative;
+  padding: 30px;
+
+}
+
+.bottom-container{
+margin: 100px 0px;
+}
+
+
+.navbar-brand{
+  font-size: 2rem;
+}
+
+.card1{
+  float:left;
+  width:50%;
+  text-align: center;
+  line-height: 2;
+  padding-right: 50px;
+}
+
+.card2{
+  float:right;
+  width:50%;
+  text-align: left;
+  line-height: 2;
+  padding-left: 125px;
+  margin-top: 100px;
+}
+
+.card3{
+  float:left;
+  width:50%;
+  text-align: left;
+  line-height: 2;
+  margin-top: 100px;
+}
+
+.card4{
+  float:right;
+  width:50%;
+  text-align: left;
+  line-height: 2;
+  margin-top: 100px;
+}
+
+.div-button{
+margin-top: 100px;
+margin-left: 600px;
+margin-right: 600px;
+}
+
+.phone-luv{
+  float: left;
+  margin-right: 30px;
+}
+
+.couples{
+  float: left;
+  margin-right: 10px;
+  margin-left: 100px;
+}
+
+.emotions{
+  float: left;
+  margin-right: 30px;
+  margin-left: 100px;
+}
+
+.boy{
+  float: right;
+  margin-right: 100px;
+}
+
+.girl{
+  float: left;
+  margin-left: 100px;
+}
+
+.p1{
+  vertical-align: middle;
+  text-align: center;
+}
+
+.p3{
+  margin-right: 200px;
+}
+
+.p4{
+  margin-right: 100px;
+}
+
+.card {
+ cursor: pointer;
+ width: 250px;
+ height: 480px;
+ background: #56BBF1;
+ border-radius: 5px;
+ border: 1px solid rgba(0, 0, 255, .2);
+ transition: all .2s;
+ box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+ margin-left: 100px;
+ margin-top: 100px
+}
+
+.prof{
+  border: 3px solid #424242;
+  height: 140px;
+  width: 140px;
+  border-radius: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 40px;
+  margin-top: 30px;
+}
+/* From cssbuttons.io by @EmmaxPlay */
+.card_2 {
+ width: 210px;
+ height: 310px;
+ margin: 0 auto;
+ background-color: #FD297B;
+ border-radius: 8px;
+ z-index: 1;
+ float: right;
+}
+
+.tools {
+ display: flex;
+ align-items: center;
+ padding: 9px;
+}
+
+.circle {
+ padding: 0 4px;
+}
+
+.box {
+ display: inline-block;
+ align-items: center;
+ width: 10px;
+ height: 10px;
+ padding: 1px;
+ border-radius: 50%;
+}
+
+.red {
+ background-color: #ff605c;
+}
+
+.yellow {
+ background-color: #ffbd44;
+}
+
+.green {
+ background-color: #00ca4e;
+}
+
+.chica2{
+  border: 3px solid #424242;
+  height: 140px;
+  width: 140px;
+  border-radius: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 35px;
+}
+
+.chica_boton{
+  margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+/****************************ID SELECTOR************************/
+#Miriam{
+  margin-top: 20px;
+}
+
+#Anna{
+  margin-top: 20px;
+}
